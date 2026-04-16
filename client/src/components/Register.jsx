@@ -11,7 +11,7 @@ export default function Register() {
             .then((res)=>{
                 console.log(res)
                 if(res.status == 201){
-                    alert("Registration successfull")
+                    alert("Registration successfullyyyyyy")
                 }
             })
             .catch(err=>{
